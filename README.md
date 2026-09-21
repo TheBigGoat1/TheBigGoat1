@@ -1,47 +1,47 @@
 <div align="center">
 
-<!-- 01 · SIGNAL -->
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1200&pause=500&color=00FF88&center=true&vCenter=true&width=500&height=35&lines=SIGNAL..." alt="SIGNAL"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=1200&pause=700&color=00FF88&center=true&vCenter=true&width=400&height=30&lines=%2F%2F+SIGNAL+DETECTED;%2F%2F+CONNECTION+ESTABLISHED;%2F%2F+WELCOME." alt=""/>
 
 <br>
 
-<!-- 02 · ACTIVATION -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1400&pause=700&color=00FF88&center=true&vCenter=true&width=500&height=35&lines=SIGNAL+DETECTED;SIGNAL+ACTIVE" alt="SIGNAL ACTIVE"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=90&section=header&text=%E2%9A%A1&fontSize=58&fontColor=00FF88" width="100%" />
 
 <br><br>
 
-<!-- 03 · LIGHTNING -->
+<img src="https://github.com/TheBigGoat1/TheBigGoat1/blob/main/dark-goat.gif" width="86%" alt=""/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=%E2%9A%A1&fontSize=64&fontColor=00FF88" width="100%" />
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=1400&color=FFFFFF&center=true&vCenter=true&width=700&height=55&lines=THE+BIG+GOAT" alt=""/>
 
 <br>
 
-<!-- 04 · IDENTITY -->
+`[ SIGNAL ACTIVE ]`
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=34&duration=2200&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=55&lines=THE+BIG+GOAT" alt="THE BIG GOAT"/>
+<br><br><br>
 
-<br><br>
-
-<!-- 05 · GOAT -->
-
-<img src="https://github.com/TheBigGoat1/TheBigGoat1/blob/main/dark-goat.gif" width="82%" alt="THE BIG GOAT"/>
-
-<br><br>
-
-<!-- 06 · SYSTEM -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&height=40&lines=AI+%C2%B7+SYSTEMS+%C2%B7+CODE" alt="AI SYSTEMS CODE"/>
+<table>
+<tr>
+<td align="center" width="180">01<br><sub>OBSERVE</sub></td>
+<td align="center" width="180">02<br><sub>CREATE</sub></td>
+<td align="center" width="180">03<br><sub>EVOLVE</sub></td>
+</tr>
+</table>
 
 <br><br>
 
-<!-- 07 · SIGNATURE -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=00FF88&center=true&vCenter=true&width=600&height=40&lines=STFU+AND+CODE.;%E2%9A%A1+BUILD+THE+IMPOSSIBLE." alt=""/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=1200&color=00FF88&center=true&vCenter=true&width=600&height=40&lines=STFU+AND+CODE." alt="STFU AND CODE"/>
+<br><br><br>
+
+`AI`   `SYSTEMS`   `CODE`
 
 <br><br>
 
 `◉`
+
+<br>
 
 </div>
