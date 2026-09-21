@@ -20,7 +20,11 @@
 
 `[ SIGNAL ACTIVE ]`
 
-<br><br><br>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2800&pause=1000&color=666666&center=true&vCenter=true&width=500&height=35&lines=ENTERING+CODE+HEAVEN..." alt=""/>
+
+<br><br>
 
 <table>
 <tr>
@@ -32,11 +36,19 @@
 
 <br><br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3200&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=WELCOME+TO+CODE+HEAVEN" alt=""/>
+
+<br>
+
+<sub>where it's all made.</sub>
+
+<br><br>
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=00FF88&center=true&vCenter=true&width=600&height=40&lines=STFU+AND+CODE.;%E2%9A%A1+BUILD+THE+IMPOSSIBLE." alt=""/>
 
 <br><br><br>
 
-`AI`   `SYSTEMS`   `CODE`
+`AI`   `SYSTEMS`   `CODE`
 
 <br><br>
 
