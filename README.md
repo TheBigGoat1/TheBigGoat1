@@ -1,158 +1,187 @@
 <div align="center">
 
-<br>
+<br><br>
 
-<!-- ═══════════════════════ ARRIVAL ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=850&pause=450&color=00FF88&center=true&vCenter=true&width=560&height=28&lines=%5B+%2F%2F+SIGNAL.DETECTED+%5D;%5B+%2F%2F+HANDSHAKE.COMPLETE+%5D;%5B+%2F%2F+ACCESS.GRANTED+%5D" alt=""/>
+<!--                        ARRIVAL                          -->
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<sub>07:14:01</sub>
 
 <br><br>
 
-<sub>
-`07:14:01`　`CORE.PULSE`　`ONLINE`
-</sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=1&section=header&text=" width="82%" />
-
-<br><br>
-
-<!-- ═══════════════════════ CORE ═══════════════════════ -->
-
-<img src="https://github.com/TheBigGoat1/TheBigGoat1/blob/main/dark-goat.gif" width="82%" alt="THE BIG GOAT CORE"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2600&pause=1400&color=FFFFFF&center=true&vCenter=true&width=720&height=55&lines=THE+BIG+GOAT" alt="THE BIG GOAT"/>
-
-<br>
-
-<code>CORE :: ACTIVE</code>
-
-<br><br>
-
-<sub>
-`07:14:02`　`MEMORY.OK`　`SIGNAL.STABLE`
-</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=900&pause=650&color=00FF88&center=true&vCenter=true&width=520&height=28&lines=%5B+SIGNAL.DETECTED+%5D;%5B+HANDSHAKE.COMPLETE+%5D;%5B+ACCESS.GRANTED+%5D" alt=""/>
 
 <br><br><br>
 
-<!-- ═══════════════════════ TRANSITION ═══════════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2100&pause=750&color=00FF88&center=true&vCenter=true&width=560&height=35&lines=%3E+ENTERING+THE+REALM...;%3E+LOADING+CODE.HEAVEN...;%3E+REALM.UNLOCKED." alt=""/>
-
-<br><br>
-
 <pre>
-                         ┌───────────────────────┐
-                         │       ACCESS          │
-                         │       GRANTED         │
-                         │                       │
-                         │       CODE.HEAVEN     │
-                         │                       │
-                         │       CORE: ◉         │
-                         └───────────────────────┘
+                         ◉
 </pre>
 
+<br>
+
+<sub>CORE SEARCHING...</sub>
+
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3200&pause=1200&color=FFFFFF&center=true&vCenter=true&width=680&height=48&lines=WELCOME+TO+CODE+HEAVEN" alt="CODE HEAVEN"/>
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<!--                         ENTITY                         -->
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://github.com/TheBigGoat1/TheBigGoat1/blob/main/dark-goat.gif" width="78%" alt=""/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=29&duration=2800&pause=1600&color=FFFFFF&center=true&vCenter=true&width=700&height=52&lines=THE+BIG+GOAT" alt=""/>
+
+<br>
+
+<code>CORE :: FOUND</code>
+
+<br><br>
+
+<sub>
+07:14:02　·　IDENTITY VERIFIED　·　SIGNAL STABLE
+</sub>
+
+<br><br><br><br>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<!--                       THRESHOLD                        -->
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<pre>
+                    ─────────────
+                     THRESHOLD
+                    ─────────────
+
+                         ◉
+
+                    CORE ACTIVE
+</pre>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2400&pause=900&color=00FF88&center=true&vCenter=true&width=560&height=34&lines=%3E+ENTERING+THE+REALM...;%3E+LOADING+CODE.HEAVEN...;%3E+REALM.UNLOCKED." alt=""/>
+
+<br><br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=3400&pause=1400&color=FFFFFF&center=true&vCenter=true&width=700&height=48&lines=CODE.HEAVEN" alt=""/>
 
 <br>
 
 <sub>where it's all made.</sub>
 
+<br><br><br><br>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<!--                        THE REALM                       -->
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<sub>THE REALM</sub>
+
 <br><br>
-
-<code>NOISE → SIGNAL → THOUGHT → CODE → REALITY</code>
-
-<br><br><br>
-
-<!-- ═══════════════════════ SYSTEM ═══════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=1&section=header&text=" width="70%" />
-
-<br><br>
-
-<sub>THE SYSTEM IS NOT THE PRODUCT.</sub>
-
-<br>
-
-<sub>THE SYSTEM IS THE PLACE.</sub>
-
-<br><br><br>
 
 <pre>
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│                     THE WORKS                    │
-│                                                  │
-│   001  INTELLIGENCE              [ ONLINE ]     │
-│   002  SYSTEMS                   [ ONLINE ]     │
-│   003  SOFTWARE                  [ ONLINE ]     │
-│   004  EXPERIMENTS               [ ACTIVE ]     │
-│   005  RESEARCH                  [ RUNNING ]    │
-│   006  CREATION                  [ INFINITE ]   │
-│                                                  │
-└──────────────────────────────────────────────────┘
+                         ◉
+                         │
+             ┌───────────┼───────────┐
+             │           │           │
+             ▼           ▼           ▼
+          THINK       CONNECT      EXECUTE
+             │           │           │
+             ▼           ▼           ▼
+        INTELLIGENCE   SYSTEMS    SOFTWARE
+             │           │           │
+             └───────────┼───────────┘
+                         │
+                         ▼
+                       CREATE
 </pre>
 
 <br><br>
 
-<!-- ═══════════════════════ MODULES ═══════════════════════ -->
+<code>NOTHING HERE STARTED AS CODE.</code>
+
+<br>
+
+<sub>IT STARTED AS AN IDEA.</sub>
+
+<br><br><br><br>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<!--                        ARCHIVE                         -->
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<sub>ARCHIVE / OPEN</sub>
+
+<br><br>
 
 <table>
 <tr>
-
-<td align="center" width="220">
+<td align="center" width="210">
 
 <code>001</code>
 
 <br><br>
 
-### INTELLIGENCE
+<b>INTELLIGENCE</b>
+
+<br><br>
 
 <sub>thinking machines</sub>
 
 <br><br>
 
-`THINK`
+<code>THINK</code>
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="210">
 
 <code>002</code>
 
 <br><br>
 
-### SYSTEMS
+<b>SYSTEMS</b>
+
+<br><br>
 
 <sub>machines that move</sub>
 
 <br><br>
 
-`CONNECT`
+<code>CONNECT</code>
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="210">
 
 <code>003</code>
 
 <br><br>
 
-### SOFTWARE
+<b>SOFTWARE</b>
+
+<br><br>
 
 <sub>ideas made executable</sub>
 
 <br><br>
 
-`EXECUTE`
+<code>EXECUTE</code>
 
 </td>
-
 </tr>
 </table>
 
@@ -160,144 +189,126 @@
 
 <table>
 <tr>
-
-<td align="center" width="220">
+<td align="center" width="210">
 
 <code>004</code>
 
 <br><br>
 
-### EXPERIMENTS
+<b>EXPERIMENTS</b>
+
+<br><br>
 
 <sub>where the unknown begins</sub>
 
 <br><br>
 
-`DISCOVER`
+<code>DISCOVER</code>
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="210">
 
 <code>005</code>
 
 <br><br>
 
-### RESEARCH
+<b>RESEARCH</b>
+
+<br><br>
 
 <sub>understanding before building</sub>
 
 <br><br>
 
-`UNDERSTAND`
+<code>UNDERSTAND</code>
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="210">
 
 <code>006</code>
 
 <br><br>
 
-### CREATION
-
-<sub>nothing stays an idea</sub>
+<b>UNKNOWN</b>
 
 <br><br>
 
-`BUILD`
+<sub>not everything is revealed</sub>
+
+<br><br>
+
+<code>???</code>
 
 </td>
-
 </tr>
 </table>
 
-<br><br><br>
+<br><br><br><br>
 
-<!-- ═══════════════════════ LIVE CORE ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2300&pause=900&color=666666&center=true&vCenter=true&width=560&height=30&lines=%5B+CORE.MONITOR+%5D;%5B+SYSTEMS.IN.PROGRESS+%5D;%5B+MORE.TO.COMPILE+%5D" alt=""/>
+<!--                       CORE LOG                         -->
 
-<br><br>
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <pre>
-     ┌──────────────────────────────────────┐
-     │                                      │
-     │       CORE STATUS                    │
-     │                                      │
-     │       SIGNAL      ██████████  100%   │
-     │       MEMORY      █████████░   94%   │
-     │       CURIOSITY   ██████████  ∞      │
-     │       CREATION    ██████████  ON     │
-     │                                      │
-     └──────────────────────────────────────┘
+────────────────────────────────────────────────
+
+07:14:08   CORE.PULSE       OK
+07:14:09   MEMORY           STABLE
+07:14:10   SYSTEMS          RUNNING
+07:14:11   CURIOSITY        UNLIMITED
+07:14:12   CREATION         ACTIVE
+
+────────────────────────────────────────────────
 </pre>
 
 <br><br>
 
 <sub>
-`OBSERVE`　→　`UNDERSTAND`　→　`CREATE`　→　`BREAK`　→　`REBUILD`
+OBSERVE　→　UNDERSTAND　→　CREATE　→　BREAK　→　REBUILD
 </sub>
 
-<br><br><br>
+<br><br><br><br>
 
-<!-- ═══════════════════════ ARCHIVE ═══════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=1100&color=00FF88&center=true&vCenter=true&width=500&height=35&lines=%5B+ARCHIVE.OPEN+%5D;%5B+NOTHING.IS.FINISHED+%5D;%5B+THE+NEXT+SYSTEM+IS+LOADING+%5D" alt=""/>
+<!--                       PHILOSOPHY                       -->
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<sub>ONE RULE</sub>
 
 <br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3600&pause=1500&color=00FF88&center=true&vCenter=true&width=620&height=42&lines=STFU+AND+CODE." alt=""/>
+
+<br><br>
+
+<sub>THE REST IS NOISE.</sub>
+
+<br><br><br><br>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<!--                         EXIT                           -->
+
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <pre>
-             THE ARCHIVE
+                         ◉
 
-             ───────────
+                   CORE REMAINS ACTIVE
 
-             ideas
-                ↓
-             prototypes
-                ↓
-             systems
-                ↓
-             knowledge
-                ↓
-             something new
+
+                  ─────────────────
+
+                    NO EXIT FOUND
+
+                  ─────────────────
 </pre>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=1&section=header&text=" width="70%" />
-
-<br><br><br>
-
-<!-- ═══════════════════════ SIGNATURE ═══════════════════════ -->
-
-<sub>
-THERE IS ALWAYS ANOTHER LEVEL.
-</sub>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3400&pause=1300&color=00FF88&center=true&vCenter=true&width=620&height=42&lines=STFU+AND+CODE.;%2F%2F+BUILD+THE+IMPOSSIBLE." alt=""/>
-
-<br><br><br>
-
-<code>AI</code>　<code>SYSTEMS</code>　<code>CODE</code>
-
-<br><br><br>
-
-<pre>
-────────────────────────────────────────────
-
-              CORE REMAINS ACTIVE
-
-                       ◉
-
-────────────────────────────────────────────
-</pre>
-
-<br>
-
-<sub>END OF TRANSMISSION</sub>
 
 <br><br>
 
