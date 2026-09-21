@@ -2,12 +2,6 @@
 
 <br><br>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<!--                        ARRIVAL                          -->
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
 <sub>07:14:01</sub>
 
 <br><br>
@@ -16,31 +10,25 @@
 
 <br><br><br>
 
-<pre>
-                         ◉
-</pre>
+<sub>THE SYSTEM RECOGNIZES YOU.</sub>
 
-<br>
-
-<sub>CORE SEARCHING...</sub>
-
-<br><br>
+<br><br><br>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<!--                         ENTITY                         -->
+<!--                         THE GOAT                       -->
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<img src="https://github.com/TheBigGoat1/TheBigGoat1/blob/main/dark-goat.gif" width="78%" alt=""/>
+<img src="https://github.com/TheBigGoat1/TheBigGoat1/blob/main/dark-goat.gif" width="84%" alt="THE BIG GOAT"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=29&duration=2800&pause=1600&color=FFFFFF&center=true&vCenter=true&width=700&height=52&lines=THE+BIG+GOAT" alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1600&color=FFFFFF&center=true&vCenter=true&width=720&height=55&lines=THE+BIG+GOAT" alt="THE BIG GOAT"/>
 
 <br>
 
-<code>CORE :: FOUND</code>
+<code>CORE :: ACTIVE</code>
 
 <br><br>
 
@@ -52,84 +40,44 @@
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<!--                       THRESHOLD                        -->
+<!--                       THE THRESHOLD                    -->
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<pre>
-                    ─────────────
-                     THRESHOLD
-                    ─────────────
-
-                         ◉
-
-                    CORE ACTIVE
-</pre>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2400&pause=900&color=00FF88&center=true&vCenter=true&width=560&height=34&lines=%3E+ENTERING+THE+REALM...;%3E+LOADING+CODE.HEAVEN...;%3E+REALM.UNLOCKED." alt=""/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2300&pause=900&color=00FF88&center=true&vCenter=true&width=560&height=35&lines=%3E+ENTERING+THE+REALM...;%3E+LOADING+CODE.HEAVEN...;%3E+REALM.UNLOCKED." alt=""/>
 
 <br><br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=3400&pause=1400&color=FFFFFF&center=true&vCenter=true&width=700&height=48&lines=CODE.HEAVEN" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=1&section=header&text=" width="62%" />
+
+<br><br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3300&pause=1500&color=FFFFFF&center=true&vCenter=true&width=700&height=50&lines=CODE.HEAVEN" alt="CODE HEAVEN"/>
 
 <br>
 
 <sub>where it's all made.</sub>
 
+<br><br>
+
+<code>IDEA → INTENT → CODE → REALITY</code>
+
 <br><br><br><br>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<!--                        THE REALM                       -->
+<!--                         THE REALM                      -->
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <sub>THE REALM</sub>
 
-<br><br>
-
-<pre>
-                         ◉
-                         │
-             ┌───────────┼───────────┐
-             │           │           │
-             ▼           ▼           ▼
-          THINK       CONNECT      EXECUTE
-             │           │           │
-             ▼           ▼           ▼
-        INTELLIGENCE   SYSTEMS    SOFTWARE
-             │           │           │
-             └───────────┼───────────┘
-                         │
-                         ▼
-                       CREATE
-</pre>
-
-<br><br>
-
-<code>NOTHING HERE STARTED AS CODE.</code>
-
-<br>
-
-<sub>IT STARTED AS AN IDEA.</sub>
-
-<br><br><br><br>
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<!--                        ARCHIVE                         -->
-
-<!-- ═══════════════════════════════════════════════════════ -->
-
-<sub>ARCHIVE / OPEN</sub>
-
-<br><br>
+<br><br><br>
 
 <table>
 <tr>
-<td align="center" width="210">
+
+<td align="center" width="230">
 
 <code>001</code>
 
@@ -147,7 +95,7 @@
 
 </td>
 
-<td align="center" width="210">
+<td align="center" width="230">
 
 <code>002</code>
 
@@ -165,7 +113,7 @@
 
 </td>
 
-<td align="center" width="210">
+<td align="center" width="230">
 
 <code>003</code>
 
@@ -179,9 +127,10 @@
 
 <br><br>
 
-<code>EXECUTE</code>
+<code>BUILD</code>
 
 </td>
+
 </tr>
 </table>
 
@@ -189,7 +138,8 @@
 
 <table>
 <tr>
-<td align="center" width="210">
+
+<td align="center" width="230">
 
 <code>004</code>
 
@@ -207,7 +157,7 @@
 
 </td>
 
-<td align="center" width="210">
+<td align="center" width="230">
 
 <code>005</code>
 
@@ -225,23 +175,24 @@
 
 </td>
 
-<td align="center" width="210">
+<td align="center" width="230">
 
 <code>006</code>
 
 <br><br>
 
-<b>UNKNOWN</b>
+<b>CREATION</b>
 
 <br><br>
 
-<sub>not everything is revealed</sub>
+<sub>nothing stays an idea</sub>
 
 <br><br>
 
-<code>???</code>
+<code>CREATE</code>
 
 </td>
+
 </tr>
 </table>
 
@@ -249,66 +200,92 @@
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<!--                       CORE LOG                         -->
+<!--                         THE CORE                       -->
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<pre>
-────────────────────────────────────────────────
+<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=1&section=header&text=" width="62%" />
 
+<br><br><br>
+
+<sub>CORE LOG</sub>
+
+<br><br>
+
+<pre>
 07:14:08   CORE.PULSE       OK
 07:14:09   MEMORY           STABLE
 07:14:10   SYSTEMS          RUNNING
 07:14:11   CURIOSITY        UNLIMITED
 07:14:12   CREATION         ACTIVE
-
-────────────────────────────────────────────────
 </pre>
 
 <br><br>
 
 <sub>
-OBSERVE　→　UNDERSTAND　→　CREATE　→　BREAK　→　REBUILD
+OBSERVE　→　CREATE　→　EVOLVE
 </sub>
 
 <br><br><br><br>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<!--                       PHILOSOPHY                       -->
+<!--                         THE ARCHIVE                    -->
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<sub>ONE RULE</sub>
+<sub>ARCHIVE / OPEN</sub>
+
+<br><br><br>
+
+<pre>
+        ideas
+          │
+          ▼
+      experiments
+          │
+          ▼
+       systems
+          │
+          ▼
+       reality
+</pre>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3600&pause=1500&color=00FF88&center=true&vCenter=true&width=620&height=42&lines=STFU+AND+CODE." alt=""/>
-
-<br><br>
-
-<sub>THE REST IS NOISE.</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=2800&pause=1100&color=666666&center=true&vCenter=true&width=560&height=30&lines=%5B+SYSTEMS.IN.PROGRESS+%5D;%5B+MORE.TO.COMPILE+%5D" alt=""/>
 
 <br><br><br><br>
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<!--                         EXIT                           -->
+<!--                       THE SIGNATURE                    -->
 
 <!-- ═══════════════════════════════════════════════════════ -->
 
-<pre>
-                         ◉
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3600&pause=1500&color=00FF88&center=true&vCenter=true&width=620&height=42&lines=STFU+AND+CODE." alt=""/>
 
-                   CORE REMAINS ACTIVE
+<br><br>
 
+<sub>NOISE ENDS HERE.</sub>
 
-                  ─────────────────
+<br><br><br><br><br>
 
-                    NO EXIT FOUND
+<!-- ═══════════════════════════════════════════════════════ -->
 
-                  ─────────────────
-</pre>
+<!--                          THE CORE                      -->
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<code>CORE REMAINS ACTIVE</code>
+
+<br><br><br>
+
+# ◉
+
+<br><br>
+
+<sub>THE BIG GOAT</sub>
 
 <br><br>
 
